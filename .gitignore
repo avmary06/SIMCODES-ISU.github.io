@@ -1,0 +1,7 @@
+# Ruby things
+Gemfile.lock
+docs/vendor
+docs/_site
+
+#VSCode Settings
+.vscode/
