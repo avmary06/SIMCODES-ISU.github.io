@@ -1,6 +1,7 @@
 ---
 title: SIMCODES Policies and Procedures
 image:
+  path: /images/policies_logo.png
   thumbnail: /images/policies_logo_400_200.png
 ---
 
