@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 locale: en-US
-title: "SIMCODES@ISU"
+title: "SIMCODES"
 description: "An NSF REU Program."
 baseurl:
 url: "https://simcodes-isu.github.io"
@@ -50,12 +50,37 @@ plugins:
 
 # Collections
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
+  examples:
+    output: true
+    permalink: /:collection/:path/
   mentors:
+    output: true
+    permalink: /:collection/:path/
+  resources:
     output: true
     permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
+  # About default
+  - scope:
+      path: "_about"
+      type: about
+    values:
+      layout: post
+      comments: false
+      share: false
+  # Example defaults
+  - scope:
+      path: "_examples"
+      type: examples
+    values:
+      layout: post
+      comments: false
+      share: false
   # Mentor defaults
   - scope:
       path: "_mentors"
@@ -64,6 +89,15 @@ defaults:
       layout: post
       comments: false
       share: false
+  # Resource defaults
+  - scope:
+      path: "_resources"
+      type: resources
+    values:
+      layout: post
+      comments: false
+      share: false
+
 
 # Footer Links
 footer_links:
