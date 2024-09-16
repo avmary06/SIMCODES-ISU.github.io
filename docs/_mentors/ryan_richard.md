@@ -8,4 +8,11 @@ image:
 author: Ryan Richard
 ---
 
-Ryan's mentor bio.
+# About Me
+
+Dr. Ryan Richard is a scientist at Ames National Laboratory and an adjunct 
+assistant professor of chemistry at Iowa State University.
+
+# Example Research Projects
+
+

@@ -1,5 +1,5 @@
 ---
-title: SIMCODES Policies and Procedures
+title: SIMCODES Organizational Policies and Procedures
 image:
   path: /images/policies_logo.png
   thumbnail: /images/policies_logo_400_200.png
@@ -8,6 +8,8 @@ image:
 This page contains formal write ups of the policies and procedures used
 throughout the SIMCODES program and applies to all activities whether they are
 online or offline.
+
+{% include toc %}
 
 # Code of Conduct
 
@@ -29,3 +31,67 @@ conduct.
 
 TODO: Get from proposal
 {: .notice--success}
+
+# Grievance Policy
+
+TODO: Did we have one?
+{: .notice--success}
+
+# Data Policies
+
+This is an abridged format of the Data Management Plan.
+
+## Products of Research
+Data created by the SIMCODES project is categorized as one of the following:
+
+- **Training materials**. This including slide presentations, code templates, 
+  code examples, and video recordings of boot camp tutorials. 
+- **Numerical data**. Project-specific. Examples include output logs from 
+  software packages, databases of numerical results, molecular dynamics 
+  simulations, model training data from machine learning efforts, and data 
+  obtained from analyzing primary data.
+- **Software**. This includes *new* software units (e.g., libraries or modules), 
+  data analysis scripts, and machine learning pipelines 
+- **Software contributions**. Software development activities, e.g.,  bug fixes, 
+  performance improvements, and potentially new features. Target is existing
+  software packages. 
+- **Poster**. Students will create a poster at the end of the program to
+  showcase their work. 
+- **Website**. The source code for the SIMCODES website. 
+
+## Access to Data
+SIMCODES@ISU is a public GitHub organization with content licensed under the
+open source Apache 2.0 License. *Software* and *numerical results* created as 
+part of the SIMCODES center will be made publicly available through the SIMCODES 
+organization. Each mentor will be expected to create and maintain repositories, 
+which belong to the SIMCODES organization, for each project which results in 
+*software* and *numerical results*. At the discretion of the mentor, the public 
+release of a project repository may be embargoed until after the results are 
+published. Each mentor will be responsible for deciding on their repository's 
+license and contribution guidelines, but will be encouraged to adopt the same or
+similar policies as the overall organization. As appropriate we will use the 
+MolSSI DOI generation capabilities to provide DOIs for numerical results.
+
+*Software contributions* will be made subject to the licensing, contributing, 
+and distribution guidelines of the target software package. Contributions will 
+only be made to software packages which can guarantee that the contributions 
+will eventually be publicly accessible. 
+
+## Policies for Reuse, Redistribution, and Production of Derivatives
+
+*Training materials*, *posters*, and the *website* will be released under the 
+terms of the Apache 2.0 License which does not restrict how licensed content 
+can be reused, redistributed, or incorporated into derived works, so long as the
+original authors are credited. Policies for *software* and *numerical results* 
+will be defined per project repository. Generally speaking we expect such 
+repositories to be released under the Apache 2.0 License, or another similar 
+license, but realize that their may be extraneous circumstances. 
+*Software contributions* will be released under the terms of the software 
+project to which the contributions are made. 
+
+## Archiving of Data
+
+With the exception of some *software contributions*, all research products will 
+be uploaded to the SIMCODES@ISU GitHub organization. At present GitHub maintains
+backups of organizations and repositories indefinitely and we will rely on
+GitHub for backing up all research.
