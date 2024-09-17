@@ -18,7 +18,7 @@ other software packages including
 [GhostFragment](https://github.com/rmrresearch/GhostFragment) and
 [CMinx](https://github.com/CMakePP/CMinx). Ryan's research interests include 
 research software engineering, high-performance quantum chemistry, and method 
-development. 
+development. He also dabbles in DevOps.
 
 # Why I Like My Research
 
@@ -142,5 +142,3 @@ a number of unique opportunities:
 
 These research projects are joint research efforts with (TODO: list other REU
 mentors here).
-
-
