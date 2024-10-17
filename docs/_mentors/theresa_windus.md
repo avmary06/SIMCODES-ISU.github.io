@@ -24,7 +24,7 @@ being a mentor in the SIMCODES project is truly exciting!
 
 Ultimately, success in my group is measured by the effort one puts into learning
 and, hopefully(!), in new science that leads to publications. In the SIMCODES project,
-we are especially interested in exposing early career undergraduate students who
+we are especially interested in working with early career undergraduate students who
 may not have any or much research experience. So, understanding the basics of how research
 projects work is also a goal for the project.
 
