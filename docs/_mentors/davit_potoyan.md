@@ -1,7 +1,7 @@
 ---
-title: "Theresa L. Windus"
+title: "Davit Potoyan"
 layout: page
-author: Theresa Windus
+author: Davit Potoyan
 ---
 
 # About Me
