@@ -21,24 +21,10 @@ Success in my group is driven by curiosity, hard work, collaboration, and shared
 
 Some of the research projects REU students can work on with me include:
 
-## Fragment-Based Methods
+## Model Transparency for Predictive Models
 
-Electronic structure calculations are computationally expensive. One way to
-reduce the cost, and make the computations more suitable for supercomputing, is
-to break large systems into many smaller systems called "fragments." Fragment-
-based methods are variations on traditional electronic structure methods that
-rely on fragmenting the target system. Potential research avenues include:
+Users usually treat a machine model as a black box due to its incomprehensible functions and complex working mechanism. The “black box” nature of machine learning models may impede decision makers from trusting the predicted results, especially when the model is used for making critical decisions (e.g., medical disease diagnosis), because the consequences may be catastrophic if the predictions are acted upon blind faith. In general, transparent machine learning models have the advantage of faithfully reflecting the model behavior during the decision-making process, which helps users examine whether a machine learning model has employed the true evidences instead of biases and reduces the likelihood of an error.
 
-- Coding up new fragment-based methods. There's an obscenely large number of
-  ways to fragment your average chemical system. Maybe we can come up with a
-  better one?
-- Benchmarking. Having fragment-based methods available isn't enough. We need to
-  know when they work and when they fail. While analysis of the equations and
-  algorithms offers some insight, brute-force running the method on many systems
-  helps catch edge cases we may have missed.
-
-These research projects are joint research efforts with (TODO: list other REU
-mentors here).
 
 ## High-Throughput Electronic Structure
 
