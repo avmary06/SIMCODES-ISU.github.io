@@ -14,40 +14,8 @@ I hope I can use my knowledge to solve practical problems and change people’s 
 
 # Success in My Group
 
-My research is highly inter-disciplinary and involves contributions from
-chemistry, physics, mathematics, computer science, and software engineering.
-These topics are unavoidable. Students do not need to be experts in these
-topics, but they will need to learn some aspects as they are encountered. At the
-same time, given the complexity of the equations, the only feasible manner of 
-obtaining solutions is by using software specifically written to solve these 
-equations. Thus software development is also unavoidable. While you do not need
-to be a Google-level programmer, you must be willing to learn some programming 
-skills as well as the accompanying best practices.
+Success in my group is driven by curiosity, hard work, collaboration, and shared goals. Each student in my group has unique strengths, creating a diverse skill set that enhances our overall effectiveness. We celebrate each achievement, big or small, fostering an environment where everyone feels valued and motivated. Open communication is key; we regularly share feedback and ideas, allowing us to learn from one another and adapt as needed. This synergy not only drives us toward our objectives but also strengthens our bonds, making our group a space where individual growth and collective success go hand in hand.
 
-Ideal skills:
-
-- A strong math background including pre-calculus, if not calculus.
-- Well organized (we deal with a lot of data and it is essential to keep it
-  all straight).
-- Ability to think critically about problems (debugging software is an
-  exercise in logic).  
-- Basic computer skills. 95% of software engineering is knowing how to search
-  Stack Overflow.
-
-Wiling to learn (if you don't know them already):
-
-- Linear algebra concepts. Linear algebra is the math of quantum chemistry and
-  computer science. Terms will creep in.
-- GitHub, Slack, VSCode, and Jupyter. These are among the most popular
-  technologies of modern software development and data science. They will make
-  your life much easier...
-- Some C++. While users interact with NWChemEx through Python, the reality is
-  the Python calls C++ libraries to do the heavy lifting. Inevitably, some of
-  C++'s idiosyncrasies will slip through...
-- Software engineering. Writing code that gets the right answer is only half
-  the battle. The other half is ensuring that code is reasonably robust, user-
-  friendly (including by other software), and well documented. Good code is not
-  an accident, it is designed.
 
 # Example Research Projects
 
