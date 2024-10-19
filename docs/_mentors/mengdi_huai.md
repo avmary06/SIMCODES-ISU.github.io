@@ -1,24 +1,12 @@
 ---
-title: "Ryan M. Richard"
+title: "Mengdi Huai"
 layout: page
-image:
-  path: /images/fragment_based_methods.png
-  thumbnail: /images/fragment_based_methods_400_200.png
-  caption: "Fragment Based Method Research"
-author: Ryan Richard
+author: Mengdi Huai
 ---
 
 # About Me
 
-Dr. Ryan Richard is a scientist at Ames National Laboratory and an adjunct 
-assistant professor of chemistry at Iowa State University. Ryan is the chief
-architect and lead developer of 
-[NWChemEx](https://github.com/NWChemEx/NWChemEx). He is also the PI of several
-other software packages including 
-[GhostFragment](https://github.com/rmrresearch/GhostFragment) and
-[CMinx](https://github.com/CMakePP/CMinx). Ryan's research interests include 
-research software engineering, high-performance quantum chemistry, and method 
-development. He also dabbles in DevOps.
+Dr. Mengdi Huai is currently an assistant professor in the Department of Computer Science at Iowa State University. Her research interests are in the areas of data mining, machine learning, and artificial intelligence (AI). Currently, her work focuses on Responsible AI, where she investigates how to identify risks and develop mitigation strategies throughout the data mining and machine learning lifecycles. This includes exploring key aspects of trustworthiness, such as uncertainty, model interpretability, security and robustness, fairness, and privacy. Additionally, she is also interested in designing effective data mining and machine learning algorithms to deal with complex data with both strong empirical performance and theoretical guarantees.
 
 # Why I Like My Research
 
