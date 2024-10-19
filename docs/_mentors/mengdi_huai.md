@@ -10,25 +10,7 @@ Dr. Mengdi Huai is currently an assistant professor in the Department of Compute
 
 # Why I Like My Research
 
-I first encountered ab initio chemistry after taking undergraduate organic 
-chemistry. Having just finished memorizing 100+ reactions, I learned that there
-exists physics equations that could have "solved the reactions for me", i.e.,
-I "just" had to plug the molecules in and solve the equations. Moreover, there
-already existed software package which could solve the equations, so it was
-even easier! As I know now, while this sentiment isn't conceptually wrong, it
-does gloss over the fact that modern computational chemistry software is not yet
-at this point where this approach works for arbitrary chemical reactions. 
-
-While computational chemistry isn't the "silver bullet" I thought it would be, I
-still favor the use of software over memorizing reactions and now strive to
-make existing software even more applicable. It turns out this is a very 
-challenging problem that keeps me thoroughly engrossed. Given the multi-
-disciplinary nature, I learn new things every day. Slowly but surely I am
-watching the applicability of ab initio chemistry increase and truly believe 
-that some day it will be routinely applicable to most of chemistry. In the 
-meantime, computational chemistry offers one of the more straightforward means 
-of gaining mechanistic insight into chemical reactions and programs like 
-NWChemEx are widely used for this purpose.  
+I hope I can use my knowledge to solve practical problems and change people’s lives for the better. My current research mainly focuses on developing novel techniques to make machine learning more trustworthy. Machine learning has been applied widely to build intelligent systems, such as self-driving cars, intelligent recommendation systems and clinical decision support systems. However, in the real world, these systems suffer from a trust crisis due to the lack of transparency behind their behaviors. The concern about the “black box” nature of machine learning models makes decision-makers reluctant to trust the predicted results, especially when the models are used for making critical decisions. In the future, I hope I can address this challenge and help people benefit from machine learning-based intelligent systems. 
 
 # Success in My Group
 
