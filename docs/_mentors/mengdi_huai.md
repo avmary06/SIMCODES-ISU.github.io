@@ -30,6 +30,6 @@ Some of the research projects REU students can work on with me include:
 
 ## Model Transparency for Predictive Models
 
-Users usually treat a machine model as a black box due to its incomprehensible functions and complex working mechanism. The “black box” nature of machine learning models may impede decision makers from trusting the predicted results, especially when the model is used for making critical decisions (e.g., medical disease diagnosis), because the consequences may be catastrophic if the predictions are acted upon blind faith. In general, transparent machine learning models have the advantage of faithfully reflecting the model behavior during the decision-making process, which helps users examine whether a machine learning model has employed the true evidences instead of biases and reduces the likelihood of an error.
+Users usually treat a machine model as a black box due to its incomprehensible functions and complex working mechanism. The “black box” nature of machine learning models may impede decision makers from trusting the predicted results, especially when the model is used for making critical decisions (e.g., medical disease diagnosis), because the consequences may be catastrophic if the predictions are acted upon blind faith. In this project, we will explore predictive explanations to faithfully reflect the model behavior during the decision-making process, which helps users examine whether a machine learning model has employed the true evidences instead of biases and reduces the likelihood of an error.
 
 
