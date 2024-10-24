@@ -16,6 +16,16 @@ Davit Potoyan:
 Peng Xu:
   name: Peng Xu
   picture: /images/peng_xu.jpg
-  links: https://www.chem.iastate.edu/people/peng-xu
-  
-  
+  links: 
+    - url: https://www.chem.iastate.edu/people/peng-xu  
+Qi Li:
+  name: Qi Li
+  picture: /images/Qi Li 2023.jpg
+  links:
+    - url: https://faculty.sites.iastate.edu/qli/
+Mengdi Huai:
+  name: Mengdi Huai
+  picture: /images/MengdiHuai.png
+  links:
+    - url: https://mdhuai.github.io/
+
