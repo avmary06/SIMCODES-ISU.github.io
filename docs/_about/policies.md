@@ -29,8 +29,40 @@ conduct.
 
 # Mentor Selection
 
-TODO: Get from proposal
-{: .notice--success}
+In the interest of transparency guidelines for the mentor/mentee-pairing of the 
+SIMCODES REU are documented here.
+
+For these first several steps, once a mentor and mentee have been matched they 
+are removed from further consideration. This ensures that all potential mentors 
+have the opportunity to match with at least one mentee before doubling (or 
+tripling) up. In order of priority the first set of matches are made by:
+
+1. Mutual top choice matches (i.e., both mentor and student rank each other as 
+   their top-choice).
+2. Mutual match where mentor places the student as their first choice and the
+   student places the mentor as their second or third choice.
+3. Mutual matches where mentor places the student as their second choice and the
+   student ranks the mentor as their first, second, or third choice.
+4. Mutual matches where mentor places the student as their third choice and the
+   student ranks the mentor as their first, second, or third choice.
+5. Mentor's choice (assuming student agrees; if student does not agree then
+   mentor picks again).
+
+At this point each mentor has been given the chance to select the student they 
+want. If a mentor still has no student they are removed from consideration.
+Each remaining mentor may then take one additional student by repeating steps
+2 through 5. Mentors without two students at the end of this iteration are
+removed from the further consideration. The process then repeats with each
+remaining mentor being allowed to take a third student, again following steps
+2 through 5. Should more students remain the process can continue iteratively.
+
+It is important to note that this is a guideline and not strictly adhered to.
+In practice every application and project is somewhat unique, and the uniqueness
+of the application/project often warrant special considerations that do not
+neatly fall into the above policy.
+
+Ultimately the goal of the SIMCODES REU is to ensure students have an
+enlightening and productive (and hopefully fun) experience!!!
 
 # Grievance Policy
 
