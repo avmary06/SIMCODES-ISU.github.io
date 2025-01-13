@@ -112,7 +112,7 @@ data points. This is more data than you want to manipulate by hand we must
 develop automated solutions.
 
 - Design and development of workflows and associated tools. While tools for
-  executing workflows exist, they are generic and additional scripts are 
+  executing s exist, they are generic and additional scripts are 
   necessary to use them.
 - Campaigns. With access to high-throughput electronic structure theory we need
   to assemble databases of results. It is also important that we characterize
