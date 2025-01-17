@@ -2,7 +2,12 @@
 title: "Mengdi Huai"
 layout: page
 author: Mengdi Huai
+image:
+  thumbnail: /images/mengdi_huai.png
+  path: /images/fragment_based_methods.png
+
 ---
+
 
 # About Me
 

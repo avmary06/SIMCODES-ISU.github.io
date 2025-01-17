@@ -2,8 +2,11 @@
 title: "Davit Potoyan"
 layout: page
 author: Davit Potoyan
----
+image:
+  thumbnail: /images/davit_potoyan.jpg
+  path: /images/fragment_based_methods.png
 
+---
 # About Me
 
 Dr. Davit Potoyan is an Associate Professor in the Chemistry Department at Iowa State University. Davit's research areas encompass computational chemistry, biophysics and science driven machine learning.

@@ -2,7 +2,7 @@
 title: "Xueyu Song"
 layout: page
 image:
-  # path: /images/xueyu_song.png
+  path: /images/fragment_based_methods.png
   thumbnail: /images/xueyu_song.png
 author: Xueyu Song
 ---

@@ -1,8 +1,10 @@
 ---
 title: "Peng Xu"
 layout: page
-
 author: Peng Xu
+image:
+  path: /images/fragment_based_methods.png
+  thumbnail: /images/peng_xu.jpg
 ---
 
 # About Me
