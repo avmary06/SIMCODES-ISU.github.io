@@ -2,8 +2,10 @@
 title: "Qi Li"
 layout: page
 image:
-  path: /images/chemistry ie.png
-  caption: "Information Extraction"
+  thumbnail: /images/qi_li.jpg
+  path: /images/fragment_based_methods.png
+
+
 author: Qi Li
 ---
 

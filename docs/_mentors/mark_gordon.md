@@ -2,6 +2,10 @@
 title: "Mark S. Gordon"
 layout: page
 author: Mark Gordon
+image:
+  thumbnail: /images/mark_gordon.jpg
+  path: /images/fragment_based_methods.png
+
 ---
 
 # About Me
