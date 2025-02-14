@@ -1,6 +1,13 @@
 ---
-title: Artificial Intelligence and Machine Learning
+title: Learn Machine Learning with PyTorch
+layout: page
+permalink: /ml-learning/
 ---
 
-TODO: Put some links to online machine learning resources
-{: .notice--success}
+## Scientific Computing From Scratch
+From basic python to ML with pytorch -- [PyTorch Basics](https://pytorch.org/tutorials/)
+
+
+### Scientific Computing From Scratch  
+Learn Pytorch step by step:  -- [Video & Code modules](https://developers.google.com/machine-learning/crash-course)  
+

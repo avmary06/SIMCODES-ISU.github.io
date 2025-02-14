@@ -6,4 +6,4 @@ collection: resources
 entries_layout: grid
 ---
 
-This is where I picture us putting collections of resources.
+Explore a curated collection of educational resources covering machine learning, molecular dynamics, scientific computing, and software engineering. These guides include tutorials, best practices, and step-by-step learning materials to help you master new skills
