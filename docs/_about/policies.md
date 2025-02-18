@@ -1,8 +1,10 @@
 ---
 title: SIMCODES Organizational Policies and Procedures
 image:
-  path: /images/policies_logo.png
-  thumbnail: /images/policies_logo_400_200.png
+  path: /images/policies_org.png
+  thumbnail: /images/policies_org.png
+  width: 50%  # Reduce the display size to 50% of the container
+
 ---
 
 This page contains formal write ups of the policies and procedures used

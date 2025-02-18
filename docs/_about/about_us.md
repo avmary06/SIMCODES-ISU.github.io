@@ -1,8 +1,11 @@
 ---
 title: About the SIMCODES Organization
 image:
-  path: /images/org_structure.png
-  thumbnail: /images/org_structure.png
+  path: /images/about_org.png
+  thumbnail: /images/about_org.png
+  width: 50%  # Reduce the display size to 50% of the container
+  height: auto
+  alt: "Organization Structure"
 ---
 
 This page provides a formal overview of the SIMCODES program and why we started the program

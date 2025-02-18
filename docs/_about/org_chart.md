@@ -1,8 +1,10 @@
 ---
 title: SIMCODES Organization Structure
 image:
-  path: /images/org_structure.png
-  thumbnail: /images/org_structure.png
+  path: /images/structure_org.png
+  thumbnail: /images/structure_org.png
+  width: 50%  # Reduce the display size to 50% of the container
+
 ---
 
 This page provides a formal overview of the organisational structure of the SIMCODES program, outlining the roles, responsibilities, and hierarchy that govern its operations.
