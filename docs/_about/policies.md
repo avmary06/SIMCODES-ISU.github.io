@@ -68,8 +68,21 @@ enlightening and productive (and hopefully fun) experience!!!
 
 # Grievance Policy
 
-TODO: Did we have one?
-{: .notice--success}
+The SIMCODES REU program at ISU is committed to a respectful, inclusive, and professional environment. This policy provides a clear process for addressing concerns related to misconduct, discrimination, academic disputes, or program-related issues.
+
+  **Grievance Process**
+
+1.	Informal Resolution – Participants should first attempt to resolve concerns directly or consult your mentor.
+2.	Formal Grievance Submission – If unresolved, submit a written grievance to the Grievance Officer, including details of the issue, involved parties, and any supporting evidence.
+3.	Review & Investigation – The Grievance Officer will review the complaint confidentially and provide a resolution within 10 business days.
+4.	Appeal Process – If dissatisfied, submit an appeal to the Program Investigator within 7 days for further review. A final decision will be issued within 15 days.
+All grievances will be handled confidentially, and retaliation against complainants is strictly prohibited.
+
+  **Contact**:
+
+  Grievance Officer (Co-PI) - Dr. Ryan Richard – rrichard@iastate.edu
+
+  Program Investigator (PI)- Dr. Theresa Windus - twindus@iastate.edu
 
 # Data Policies
 
