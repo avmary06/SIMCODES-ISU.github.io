@@ -3,7 +3,7 @@ title: "Theresa L. Windus"
 layout: page
 author: Theresa Windus
 image:
-  path: /images/fragment_based_methods.png
+  path: /images/theresa_banner.png
   thumbnail: /images/theresa_windus.png
 ---
 

@@ -53,7 +53,7 @@ collections:
   about:
     output: true
     permalink: /:collection/:path/
-  examples:
+  projects:
     output: true
     permalink: /:collection/:path/
   mentors:
@@ -73,10 +73,10 @@ defaults:
       layout: post
       comments: false
       share: false
-  # Example defaults
+  # Projects defaults
   - scope:
-      path: "_examples"
-      type: examples
+      path: "_projects"
+      type: projects
     values:
       layout: post
       comments: false
