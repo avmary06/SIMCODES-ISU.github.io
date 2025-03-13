@@ -66,6 +66,56 @@ neatly fall into the above policy.
 Ultimately the goal of the SIMCODES REU is to ensure students have an
 enlightening and productive (and hopefully fun) experience!!!
 
+
+# Application Review Policy
+
+ **Review Committee**
+
+The committee consists of the Principal Investigator (PI), the Co-Principal Investigator (Co-PI), and three mentors (including two from computer science). This group will review applications and decide which students to admit
+
+**Evaluation Rubric**
+
+1. Research Readiness
+  - STEM education
+  - Prior experience
+  - Coding skills
+  - Not heavily weighted to include early career
+
+2. Access to Potential Research at Home Institution:
+  - Less access rates higher
+
+3. Potential to Learn/Work with Others
+  - Based on reference letters and transcripts
+
+4. Interest in SIMCODES
+
+**Application Review Process**
+
+- Initial Review
+  - Applications are initially reviewed by at least two committee members.
+
+- Discussion Phase 
+  - Each reviewer applies the rubric to all applications and independently selects their top 30 candidates based on their scores.
+  - During the discussion, consider the following factors:
+    - Distribution of gender
+    - Nature of the home institution
+    - Ethnicity
+
+- Final Selection
+  - Merge the individual top 30 lists from all reviewers into a combined pool.
+  - Select the final 30 candidates from this pool based on the highest overall scores.
+  - Narrow down the top 30 to the top 10 candidates.
+  - The remaining 20 applications will be kept as backup.
+
+**Initial Targets**
+
+- Institutional Representation
+  - Over 75% of selected students should be from outside ISU.
+  - At least 50% should come from institutions with limited research programs.
+
+- Residency Requirements
+  - Applicants must be U.S. citizens, nationals, or permanent residents.
+
 # Grievance Policy
 
 The SIMCODES REU program at ISU is committed to a respectful and professional environment. This policy provides a clear process for addressing concerns related to misconduct, discrimination, academic disputes, or program-related issues.
@@ -123,6 +173,8 @@ MolSSI DOI generation capabilities to provide DOIs for numerical results.
 and distribution guidelines of the target software package. Contributions will 
 only be made to software packages which can guarantee that the contributions 
 will eventually be publicly accessible. 
+
+
 
 ## Policies for Reuse, Redistribution, and Production of Derivatives
 

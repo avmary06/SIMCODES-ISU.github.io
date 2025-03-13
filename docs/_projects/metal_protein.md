@@ -1,8 +1,8 @@
 ---
 title: Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions
 image:
-  path: /images/metal.jpg
-  thumbnail: /images/metal.jpg
+  path: /images/metal.png
+  thumbnail: /images/metal.png
   width: 50%  # Reduce the display size to 50% of the container
   height: auto
   alt: "Organization Structure"
