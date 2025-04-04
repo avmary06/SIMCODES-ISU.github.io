@@ -62,6 +62,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+  students:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
