@@ -1,9 +1,10 @@
 ---
-title: Machine Learning-Enhanced Computational Modeling of Metal-Protein Interactions
+title: Machine Learning-Enhanced Computational Modeling of Metal-Protein
+  Interactions
 image:
-  path: /images/metal.png
-  thumbnail: /images/metal.png
-  width: 50%  # Reduce the display size to 50% of the container
+  path: /projects/images/metal.png
+  thumbnail: /projects/images/metal.png
+  width: 50% # Reduce the display size to 50% of the container
   height: auto
   alt: "Organization Structure"
 ---
@@ -26,29 +27,28 @@ combines quantum chemistry, fragmentation methods, and machine learning
 # Key Objectives
 
 - Validate a fragmentation-based computational strategy for modeling
-metal-protein interactions.
+  metal-protein interactions.
 - Integrate machine learning to enhance predictions of metal binding in
-biological systems.
+  biological systems.
 - Create a scalable workflow for future large-scale screening of metal-
-targeting therapeutics
+  targeting therapeutics
 
 # What You’ll Do
-- **Learn   advanced   tools** Gain   hands-on   experience   with   quantum
- chemistry software (GAMESS), the Effective Fragment Potential (EFP)
- method, and coding/scripting for high-throughput simulations.
+
+- **Learn advanced tools** Gain hands-on experience with quantum
+  chemistry software (GAMESS), the Effective Fragment Potential (EFP)
+  method, and coding/scripting for high-throughput simulations.
 - **Build ML models**Train and refine ML algorithms to predict metal-ion
-binding strengths using existing and newly generated datasets.
+  binding strengths using existing and newly generated datasets.
 - **Generate & analyze data** Run computational experiments on metal-
-residue complexes and solvated metal ions, then curate and interpret
-results to improve model accuracy.
+  residue complexes and solvated metal ions, then curate and interpret
+  results to improve model accuracy.
 - **Develop workflows**Design automated pipelines for data generation,
-job submission, and energy decomposition analysis
+  job submission, and energy decomposition analysis
 
 # Skills You’ll Gain
- 
+
 - Quantum chemical calculations (EFP, GAMESS)
 - Python/bash scripting for workflow automation
 - Machine learning model development (training, validation, refinement)
 - Data analysis and visualization for biomolecular systems
-
-

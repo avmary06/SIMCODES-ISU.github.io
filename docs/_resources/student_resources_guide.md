@@ -6,21 +6,21 @@ permalink: /student-resources/
 
 # Resources for Students: GitHub, Linux Access, and Python Dev Setup
 
-This guide is designed to help students—especially those new to programming—quickly get up to speed with essential development tools and environments. It includes beginner-friendly resources for learning GitHub, accessing Linux from any operating system, and setting up a solid Python development environment. Whether you're starting your first project or just need a reference, this document aims to make your SIMCODES internship journey smoother and easy.
+This guide is designed to help students—especially those new to programming—
+quickly get up to speed with essential development tools and environments. It
+includes beginner-friendly resources for learning GitHub, accessing Linux from
+any operating system, and setting up a solid Python development environment.
+Whether you're starting your first project or just need a reference, this
+document aims to make your SIMCODES internship journey smoother and easy.
 
----
-
-## 📚 Contents
-
-1. [GitHub Resources for Beginners](#1-github-resources-for-beginners)
-2. [Accessing Linux from Different Operating Systems](#2-accessing-linux-from-different-operating-systems)
-3. [Setting Up a Python Development Environment](#3-setting-up-a-python-development-environment)
+{% include toc %}
 
 ---
 
 ## 1. GitHub Resources for Beginners
 
-Using Git and GitHub allows you to manage your code versions, collaborate with others, and back up your projects in the cloud.
+Using Git and GitHub allows you to manage your code versions, collaborate with
+others, and back up your projects in the cloud.
 
 ### Step 1: Set Up Git
 
@@ -71,7 +71,7 @@ git push             # Push local changes
 - [GitHub Docs - Getting Started](https://docs.github.com/en/get-started)
 - [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
 - [GitHub Learning Lab](https://lab.github.com/)
-- [Git Cheat Sheet (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet (PDF)](https://tinyurl.com/45wstha2)
 
 ---
 
@@ -110,7 +110,7 @@ git push             # Push local changes
 
 ## This is how your terminal will look like if you are using the Mac
 
-![Open Terminal](../images/terminal.png)
+![Open Terminal](/resources/images/terminal.png)
 
 ### c. Linux
 
@@ -131,7 +131,7 @@ git push             # Push local changes
 
 ### a. Install Python
 
-- Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+- [Download Python](https://www.python.org/downloads/)
 - During install: ✅ "Add Python to PATH"
 - Verify:
   ```bash
@@ -171,6 +171,7 @@ Optional: Install the Jupyter extension to run notebooks inside VS Code.
 ### e. Prettify Your Code (Optional)
 
 - **Black (Formatter):**
+
   ```bash
   pip install black
   black my_script.py
