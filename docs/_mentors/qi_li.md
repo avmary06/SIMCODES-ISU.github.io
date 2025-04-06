@@ -3,7 +3,7 @@ title: "Qi Li"
 layout: page
 image:
   thumbnail: /images/qi_li.jpg
-  path: /images/fragment_based_methods.png
+  path: /images/AI chemistry.png
 
 
 author: Qi Li
